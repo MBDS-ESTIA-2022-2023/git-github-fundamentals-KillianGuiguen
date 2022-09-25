@@ -1,3 +1,5 @@
+J'ai compris les notions de ce tutoriel.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 

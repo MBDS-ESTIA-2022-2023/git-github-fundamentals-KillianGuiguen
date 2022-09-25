@@ -1,0 +1,1 @@
+J'ai compris les notions de ce tutoriel.
